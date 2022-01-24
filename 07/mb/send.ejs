@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <!--  全局用法,不安全? -->
+    <meta name="csrf-token" content="<%=csrfToken%>">
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome <%= welcome %></p>
+    <form action="/process" method="POST">
+      <input type="hidden" name="_csrf" value="<%=csrfToken%>">
+      
+      Favorite color: <input type="text" name="favoriteColor">
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>

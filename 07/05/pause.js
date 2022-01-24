@@ -1,0 +1,1 @@
+process.emit("log4js:pause", false)

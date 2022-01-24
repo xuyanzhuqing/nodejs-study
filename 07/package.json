@@ -1,0 +1,29 @@
+{
+  "name": "07",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@log4js-node/redis": "^1.0.0",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "connect": "^3.7.0",
+    "connect-redis": "5.2.0",
+    "content-type": "^1.0.4",
+    "cookie-parser": "^1.4.5",
+    "csurf": "^1.11.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-basic-auth": "^1.2.0",
+    "express-session": "^1.17.2",
+    "express-static": "^1.2.6",
+    "log4js": "^6.3.0",
+    "method-override": "^3.0.0",
+    "parseurl": "^1.3.3",
+    "qs": "^6.10.1",
+    "raw-body": "^2.4.1",
+    "redis": "^3.1.2",
+    "serve-favicon": "^2.5.0"
+  }
+}

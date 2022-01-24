@@ -1,0 +1,47 @@
+[2021-07-23T16:50:24.726] [INFO] redis - Cheese is Comté.
+[2021-07-23T17:25:28.272] [INFO] redis - I came from 08.js
+[2021-07-23T17:26:19.967] [INFO] redis - I came from 08.js
+[2021-07-23T17:26:34.043] [INFO] redis - /:GET
+[2021-07-23T17:27:17.605] [INFO] redis - I came from 08.js
+[2021-07-23T17:27:19.324] [INFO] redis - /:GET
+[2021-07-23T17:29:00.693] [INFO] redis - I came from 08.js
+[2021-07-23T17:29:04.352] [INFO] redis - /:GET
+[2021-07-23T17:32:32.775] [INFO] redis - I came from 08.js
+[2021-07-23T17:32:36.564] [INFO] redis - /:GET
+[2021-07-23T17:33:14.364] [INFO] redis - I came from 08.js
+[2021-07-23T17:35:26.120] [INFO] redis - I came from 08.js
+[2021-07-23T17:44:40.093] [INFO] redis - I came from 08.js
+[2021-07-23T17:44:46.061] [INFO] redis - /:GET
+[2021-07-23T17:44:46.106] [INFO] redis - /favicon.ico:GET
+[2021-07-23T17:44:48.154] [INFO] redis - /login:GET
+[2021-07-23T17:44:48.539] [INFO] redis - /favicon.ico:GET
+[2021-07-23T17:44:53.413] [INFO] redis - /login:POST
+[2021-07-23T17:45:36.330] [INFO] redis - I came from 08.js
+[2021-07-23T17:45:38.634] [INFO] redis - /favicon.ico:GET
+[2021-07-23T17:45:39.945] [INFO] redis - /login:POST
+[2021-07-23T17:45:41.027] [INFO] redis - /favicon.ico:GET
+[2021-07-23T17:47:19.711] [INFO] redis - I came from 08.js
+[2021-07-23T17:47:25.037] [INFO] redis - /login:POST
+[2021-07-23T17:47:26.334] [INFO] redis - /login:GET
+[2021-07-23T17:47:28.497] [INFO] redis - /login:GET
+[2021-07-23T17:47:31.971] [INFO] redis - /login:POST
+[2021-07-23T17:47:33.380] [INFO] redis - /:POST
+[2021-07-23T17:48:00.660] [INFO] redis - I came from 08.js
+[2021-07-23T17:48:04.278] [INFO] redis - I came from 08.js
+[2021-07-23T17:48:07.952] [INFO] redis - /:GET
+[2021-07-23T17:48:51.584] [INFO] redis - I came from 08.js
+[2021-07-23T17:48:53.697] [INFO] redis - /:GET
+[2021-07-23T17:48:54.926] [INFO] redis - /:GET
+[2021-07-23T17:50:40.770] [INFO] redis - I came from 08.js
+[2021-07-23T17:50:49.392] [INFO] redis - I came from 08.js
+[2021-07-23T17:50:59.969] [INFO] redis - I came from 08.js
+[2021-07-23T17:51:06.512] [INFO] redis - /:GET
+[2021-07-23T17:51:07.552] [INFO] redis - /login:GET
+[2021-07-23T17:51:13.019] [INFO] redis - /login:POST
+[2021-07-23T17:51:17.792] [INFO] redis - /:POST
+[2021-07-23T17:51:33.674] [INFO] redis - /:POST
+[2021-07-23T17:51:34.953] [INFO] redis - /login:GET
+[2021-07-23T17:52:00.737] [INFO] redis - I came from 08.js
+[2021-07-23T17:52:05.252] [INFO] redis - /:POST
+[2021-07-23T17:52:15.349] [INFO] redis - I came from 08.js
+[2021-07-23T17:52:21.134] [INFO] redis - /:POST

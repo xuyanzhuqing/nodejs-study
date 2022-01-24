@@ -104,7 +104,7 @@ function show(req, res)  {
     <html>
       <head>
         <title>file upload</title>
-        <head><meta charset="utf-8"/></head>
+        <meta charset="utf-8"/>
         <script src="/socket.io/socket.io.js"></script>
       </head>
       <body>
